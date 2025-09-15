@@ -62,3 +62,6 @@ This project aims to bridge that gap with **data-driven insights**.
 - **For Training Providers:** Invest in courses around SQL, Excel, and Tableau, as these remain highly marketable.  
 
 ---
+
+
+Preview : ![Dashboard](https://github.com/Akmal-s/Data-analyst-jobs-Analysis/blob/main/DA_Jobs_Analysis_dashboard.png)
